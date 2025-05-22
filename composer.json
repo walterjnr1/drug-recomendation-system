@@ -1,0 +1,18 @@
+{
+    "name": "seniorwalter/drug_recommender",
+    "autoload": {
+        "psr-4": {
+            "Seniorwalter\\DrugRecommender\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "walterjnr1",
+            "email": "newleastpaysolution@gmail.com"
+        }
+    ],
+    "require": {
+        "php-ai/php-ml": "^0.10.0",
+        "rubix/ml": "^2.5"
+    }
+}

@@ -1,0 +1,266 @@
+symptom1,symptom2,symptom3,drug
+headache,fever,nausea,Paracetamol
+cough,sore throat,fever,Ibuprofen
+fatigue,headache,dizziness,Aspirin
+nausea,vomiting,diarrhea,Ondansetron
+cough,runny nose,sneezing,Loratadine
+fever,chills,body ache,Acetaminophen
+rash,itching,swelling,Hydroxyzine
+chest pain,shortness of breath,cough,Salbutamol
+joint pain,swelling,redness,Diclofenac
+abdominal pain,diarrhea,cramps,Buscopan
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+cough,fever,sore throat,Amoxicillin
+muscle pain,fever,weakness,Paracetamol
+abdominal pain,diarrhea,vomiting,Loperamide
+sneezing,runny nose,itchy throat,Loratadine
+fever,headache,body ache,Ibuprofen
+rash,itching,redness,Hydrocortisone
+chest pain,cough,shortness of breath,Salbutamol
+joint pain,swelling,redness,Ibuprofen
+headache,dizziness,nausea,Metoclopramide
+sore throat,fever,cough,Azithromycin
+muscle pain,weakness,stiffness,Naproxen
+nausea,vomiting,diarrhea,Domperidone
+cough,runny nose,fever,Paracetamol
+fatigue,headache,body ache,Acetaminophen
+vomiting,abdominal pain,diarrhea,Loperamide
+fever,chills,headache,Ibuprofen
+rash,itching,swelling,Loratadine
+joint pain,stiffness,redness,Diclofenac
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+cough,fever,sore throat,Amoxicillin
+muscle pain,fever,weakness,Paracetamol
+abdominal pain,diarrhea,vomiting,Loperamide
+sneezing,runny nose,itchy throat,Loratadine
+fever,headache,body ache,Ibuprofen
+rash,itching,redness,Hydrocortisone
+chest pain,cough,shortness of breath,Salbutamol
+joint pain,swelling,redness,Ibuprofen
+headache,dizziness,nausea,Metoclopramide
+sore throat,fever,cough,Azithromycin
+muscle pain,weakness,stiffness,Naproxen
+nausea,vomiting,diarrhea,Domperidone
+cough,runny nose,fever,Paracetamol
+fatigue,headache,body ache,Acetaminophen
+vomiting,abdominal pain,diarrhea,Loperamide
+fever,chills,headache,Ibuprofen
+rash,itching,swelling,Loratadine
+joint pain,stiffness,redness,Diclofenac
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+cough,fever,sore throat,Amoxicillin
+muscle pain,fever,weakness,Paracetamol
+abdominal pain,diarrhea,vomiting,Loperamide
+sneezing,runny nose,itchy throat,Loratadine
+fever,headache,body ache,Ibuprofen
+rash,itching,redness,Hydrocortisone
+chest pain,cough,shortness of breath,Salbutamol
+joint pain,swelling,redness,Ibuprofen
+headache,dizziness,nausea,Metoclopramide
+sore throat,fever,cough,Azithromycin
+muscle pain,weakness,stiffness,Naproxen
+nausea,vomiting,diarrhea,Domperidone
+cough,runny nose,fever,Paracetamol
+fatigue,headache,body ache,Acetaminophen
+vomiting,abdominal pain,diarrhea,Loperamide
+fever,chills,headache,Ibuprofen
+rash,itching,swelling,Loratadine
+joint pain,stiffness,redness,Diclofenac
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+cough,fever,sore throat,Amoxicillin
+muscle pain,fever,weakness,Paracetamol
+abdominal pain,diarrhea,vomiting,Loperamide
+sneezing,runny nose,itchy throat,Loratadine
+fever,headache,body ache,Ibuprofen
+rash,itching,redness,Hydrocortisone
+chest pain,cough,shortness of breath,Salbutamol
+joint pain,swelling,redness,Ibuprofen
+headache,dizziness,nausea,Metoclopramide
+sore throat,fever,cough,Azithromycin
+muscle pain,weakness,stiffness,Naproxen
+nausea,vomiting,diarrhea,Domperidone
+cough,runny nose,fever,Paracetamol
+fatigue,headache,body ache,Acetaminophen
+vomiting,abdominal pain,diarrhea,Loperamide
+fever,chills,headache,Ibuprofen
+rash,itching,swelling,Loratadine
+joint pain,stiffness,redness,Diclofenac
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+cough,fever,sore throat,Amoxicillin
+muscle pain,fever,weakness,Paracetamol
+abdominal pain,diarrhea,vomiting,Loperamide
+sneezing,runny nose,itchy throat,Loratadine
+fever,headache,body ache,Ibuprofen
+rash,itching,redness,Hydrocortisone
+chest pain,cough,shortness of breath,Salbutamol
+joint pain,swelling,redness,Ibuprofen
+headache,dizziness,nausea,Metoclopramide
+sore throat,fever,cough,Azithromycin
+muscle pain,weakness,stiffness,Naproxen
+nausea,vomiting,diarrhea,Domperidone
+cough,runny nose,fever,Paracetamol
+fatigue,headache,body ache,Acetaminophen
+vomiting,abdominal pain,diarrhea,Loperamide
+fever,chills,headache,Ibuprofen
+rash,itching,swelling,Loratadine
+joint pain,stiffness,redness,Diclofenac
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+cough,fever,sore throat,Amoxicillin
+muscle pain,fever,weakness,Paracetamol
+abdominal pain,diarrhea,vomiting,Loperamide
+sneezing,runny nose,itchy throat,Loratadine
+fever,headache,body ache,Ibuprofen
+rash,itching,redness,Hydrocortisone
+chest pain,cough,shortness of breath,Salbutamol
+joint pain,swelling,redness,Ibuprofen
+headache,dizziness,nausea,Metoclopramide
+sore throat,fever,cough,Azithromycin
+muscle pain,weakness,stiffness,Naproxen
+nausea,vomiting,diarrhea,Domperidone
+cough,runny nose,fever,Paracetamol
+fatigue,headache,body ache,Acetaminophen
+vomiting,abdominal pain,diarrhea,Loperamide
+fever,chills,headache,Ibuprofen
+rash,itching,swelling,Loratadine
+joint pain,stiffness,redness,Diclofenac
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+cough,fever,sore throat,Amoxicillin
+muscle pain,fever,weakness,Paracetamol
+abdominal pain,diarrhea,vomiting,Loperamide
+sneezing,runny nose,itchy throat,Loratadine
+fever,headache,body ache,Ibuprofen
+rash,itching,redness,Hydrocortisone
+chest pain,cough,shortness of breath,Salbutamol
+joint pain,swelling,redness,Ibuprofen
+headache,dizziness,nausea,Metoclopramide
+sore throat,fever,cough,Azithromycin
+muscle pain,weakness,stiffness,Naproxen
+nausea,vomiting,diarrhea,Domperidone
+cough,runny nose,fever,Paracetamol
+fatigue,headache,body ache,Acetaminophen
+vomiting,abdominal pain,diarrhea,Loperamide
+fever,chills,headache,Ibuprofen
+rash,itching,swelling,Loratadine
+joint pain,stiffness,redness,Diclofenac
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+cough,fever,sore throat,Amoxicillin
+muscle pain,fever,weakness,Paracetamol
+abdominal pain,diarrhea,vomiting,Loperamide
+sneezing,runny nose,itchy throat,Loratadine
+fever,headache,body ache,Ibuprofen
+rash,itching,redness,Hydrocortisone
+chest pain,cough,shortness of breath,Salbutamol
+joint pain,swelling,redness,Ibuprofen
+headache,dizziness,nausea,Metoclopramide
+sore throat,fever,cough,Azithromycin
+muscle pain,weakness,stiffness,Naproxen
+nausea,vomiting,diarrhea,Domperidone
+cough,runny nose,fever,Paracetamol
+fatigue,headache,body ache,Acetaminophen
+vomiting,abdominal pain,diarrhea,Loperamide
+fever,chills,headache,Ibuprofen
+rash,itching,swelling,Loratadine
+joint pain,stiffness,redness,Diclofenac
+headache,blurred vision,dizziness,Sumatriptan
+sore throat,fever,swollen glands,Amoxicillin
+muscle pain,stiffness,weakness,Ibuprofen
+nausea,loss of appetite,weight loss,Metoclopramide
+cough,fever,chest pain,Azithromycin
+runny nose,sneezing,itchy eyes,Cetirizine
+fatigue,night sweats,weight loss,Rifampicin
+vomiting,abdominal pain,headache,Domperidone
+fever,chills,sweating,Paracetamol
+rash,redness,blisters,Betamethasone
+joint pain,stiffness,swelling,Naproxen
+headache,nausea,sensitivity to light,Sumatriptan
+
+
+
